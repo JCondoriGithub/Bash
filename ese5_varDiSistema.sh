@@ -1,0 +1,10 @@
+#!/bin/bash
+echo "VARIABILI D'AMBIENTE/SISTEMA"
+echo "OSS: 'export nomeVar' -> comando che permette di aggiungere 'nomeVar' alle variabili d'ambiente"
+echo "SHELL: $SHELL"
+echo "HOSTTYPE: $HOSTTYPE"
+echo "HISTSIZE: $HISTSIZE"
+echo "HISTFILE: $HISTFILE"
+echo "PATH: $PATH"
+echo "HOME: $HOME"
+echo "PWD: $PWD"
